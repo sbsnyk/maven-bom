@@ -17,4 +17,9 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+
+  <modules>
+    <module>submod</module>
+  </modules>
+
 </project>
