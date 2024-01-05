@@ -52,9 +52,15 @@
     https://app.snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-469676
     -->
     <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+    </dependency>
+    <!--
+    <dependency>
         <groupId>com.amazonaws</groupId>
         <artifactId>aws-java-sdk-core</artifactId>
         <version>1.11.647</version>
     </dependency>
+    -->
   </dependencies>
 </project>
